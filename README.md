@@ -139,7 +139,9 @@ Ponemos 30 GB y pulsamos **Construir**
 
 ![](http://grabilla.com/05515-86ba44fd-840b-42a2-ae80-0d36dcdbdabf.png)
 
+Por último renombramos el servidor y ya lo tenemos preparado para trabajar.
+
 #4.- VINCULAR SERVIDOR CON SUBLIME TEXT  
 
 [SFTP](https://github.com/MARIAEL/BOOTSTRAP-SUBLIME-TEXT-Instalar-SFTP/wiki/Instalar-SFTP-en-Sublime-text)
-Por último renombramos el servidor y ya lo tenemos preparado para trabajar.
+
